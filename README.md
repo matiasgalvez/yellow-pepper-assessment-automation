@@ -1,4 +1,4 @@
-# yellow-pepper-assessment4
+# yellow-pepper-assessment-automation
 
 
 This is an automation project that uses Serenity BDD and Rest Assured for the
@@ -26,7 +26,7 @@ This project uses the following languages and frameworks:
 2. Install [Git](https://git-scm.com)
 3. Install [Gradle](https://gradle.org/install/)
 
-**Note**: `build.gradle` has all the necessary configuration for the proyect.
+**Note**: `build.gradle` has all the necessary configuration for the project.
 
 Additional plugins:
 
@@ -80,16 +80,14 @@ src
 ## Project Execution:
 
 1. Download the project from GitHub
-    * **Option 1** (HTTPS): `https://github.com/matiasgalvez/yellow-pepper-assessment4.git`
-    * **Option 2** (SSH): `git@github.com:matiasgalvez/yellow-pepper-assessment4.git`
+    * **Option 1** (HTTPS): `https://github.com/matiasgalvez/yellow-pepper-assessment-automation.git`
+    * **Option 2** (SSH): `git@github.com:matiasgalvez/yellow-pepper-assessment-automation.git`
     * **Option 3:** Download as ZIP file and extract it
 
-2. Standing in project root run the following command in terminal `./gradlew build`
+2. Standing in project root run the following command in terminal `./gradlew build` (build might fail but all
+dependencies will be installed to execute the following step)
 
 3. Execute tests by going to the runner folder and executing `SerenityRunnerTest`
 
-***
+4. Check Test Report generated in `target/site/serenity/index.html`
 
-## Test Reports
-
-The test report will be generated with each runner run in `target/site/serenity/index.html`.

@@ -1,2 +1,2 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Create Pet","[TC-003] Validate that sending a Request to create a Pet with valid data works","SUCCESS","2024-05-31T02:51:06.1581435-03:00[America/Buenos_Aires]","0.0","0.2"
+"Create Pet","[TC-003] Validate that sending a Request to create a Pet with valid data works","SUCCESS","2024-05-31T03:02:30.8478925-03:00[America/Buenos_Aires]","0.0","0.21"
