@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Delete Order","[TC-005] Validate that sending a Request to Delete an order with a valid id works","SUCCESS","2024-05-31T02:51:06.4350803-03:00[America/Buenos_Aires]","0.0","0.03"

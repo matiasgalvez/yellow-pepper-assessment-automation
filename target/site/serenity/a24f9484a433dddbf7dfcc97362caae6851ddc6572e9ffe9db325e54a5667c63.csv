@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Create Pet","[TC-004] Validate that sending a Request to create a Pet with invalid data errors","SUCCESS","2024-05-31T02:51:06.3578398-03:00[America/Buenos_Aires]","0.0","0.07"

@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Get Pet","[TC-001] Validate that sending a Request to get Pet details with an existing id works","SUCCESS","2024-05-31T02:51:04.1611541-03:00[America/Buenos_Aires]","0.0","1.94"
